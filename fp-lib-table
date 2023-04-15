@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TMC4671")(type "KiCad")(uri "${KIPRJMOD}/libraries/TMC4671")(options "")(descr ""))
+)
