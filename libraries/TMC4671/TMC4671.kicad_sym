@@ -24,6 +24,9 @@
     (property "STANDARD" "IPC 7351B" (at 0 0 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
+    (property "MPN" "TMC4671-LA" (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (symbol "TMC4671_0_0"
       (rectangle (start -35.56 71.12) (end 35.56 -62.23)
         (stroke (width 0.254) (type default))

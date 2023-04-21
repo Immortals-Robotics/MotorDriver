@@ -4,4 +4,5 @@
   (lib (name "TMC6200")(type "KiCad")(uri "${KIPRJMOD}/libraries/TMC6200")(options "")(descr ""))
   (lib (name "MC2016")(type "KiCad")(uri "${KIPRJMOD}/libraries/MC2016")(options "")(descr ""))
   (lib (name "SIZ322DT-T1-GE3")(type "KiCad")(uri "${KIPRJMOD}/libraries/SIZ322DT-T1-GE3")(options "")(descr ""))
+  (lib (name "DF20EF-10DP-1V_52")(type "KiCad")(uri "${KIPRJMOD}/libraries/DF20EF-10DP-1V_52")(options "")(descr ""))
 )
