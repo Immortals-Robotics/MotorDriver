@@ -28,3 +28,4 @@ fp-info-cache
 # Custom
 motor-driver-backups
 *.kicad_prl
+output
