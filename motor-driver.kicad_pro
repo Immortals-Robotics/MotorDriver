@@ -462,7 +462,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "output/motor-driver.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

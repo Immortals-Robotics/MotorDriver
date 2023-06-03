@@ -2218,7 +2218,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 52381c39-35db-4661-b076-1e64ca8317af)
   )
-  (hierarchical_label "CUR_W" (shape input) (at 182.88 72.39 0) (fields_autoplaced)
+  (hierarchical_label "CUR_V" (shape input) (at 182.88 72.39 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 5485afb2-ddde-49c6-b03b-8c4bfc517e7a)
   )
@@ -3991,7 +3991,7 @@
   )
 
   (symbol (lib_id "Device:R_Small_US") (at 63.5 25.4 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid a64909e6-5841-4d98-8e10-93682dc4caba)
     (property "Reference" "R13" (at 66.04 22.86 0)
       (effects (font (size 1.27 1.27)))
