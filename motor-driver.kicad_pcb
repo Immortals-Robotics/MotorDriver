@@ -344,7 +344,7 @@
     (at 149.3 100.6)
     (descr "PowerPAIR® 3 x 3")
     (tags "MOSFET (N-Channel)")
-    (property "MPN" "SIZ322DT-T1-GE3")
+    (property "MPN" "SIZ342ADT-T1-GE3")
     (property "Sheetfile" "driver.kicad_sch")
     (property "Sheetname" "Driver")
     (property "ki_description" "MOSFET 25V Vds 16V Vgs PowerPAIR 3 x 3")
@@ -354,7 +354,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6f1cd2d0-eab7-4ff2-8765-efe29624ca93)
     )
-    (fp_text value "SIZ322DT" (at 0 0) (layer "F.SilkS") hide
+    (fp_text value "SIZ342ADT" (at 0 0) (layer "F.SilkS") hide
         (effects (font (size 1.27 1.27) (thickness 0.254)))
       (tstamp 0edb811f-6e9d-46cf-803b-7415c047e4f1)
     )
@@ -1917,7 +1917,7 @@
     (at 149.3 95.9)
     (descr "PowerPAIR® 3 x 3")
     (tags "MOSFET (N-Channel)")
-    (property "MPN" "SIZ322DT-T1-GE3")
+    (property "MPN" "SIZ342ADT-T1-GE3")
     (property "Sheetfile" "driver.kicad_sch")
     (property "Sheetname" "Driver")
     (property "ki_description" "MOSFET 25V Vds 16V Vgs PowerPAIR 3 x 3")
@@ -1927,7 +1927,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 45b902f5-ad5e-4c52-887b-2d341833d046)
     )
-    (fp_text value "SIZ322DT" (at 0 0) (layer "F.SilkS") hide
+    (fp_text value "SIZ342ADT" (at 0 0) (layer "F.SilkS") hide
         (effects (font (size 1.27 1.27) (thickness 0.254)))
       (tstamp 2e5c05ca-c478-4a65-9513-3db8c8d50f21)
     )
@@ -2928,7 +2928,7 @@
     (at 149.3 91.1)
     (descr "PowerPAIR® 3 x 3")
     (tags "MOSFET (N-Channel)")
-    (property "MPN" "SIZ322DT-T1-GE3")
+    (property "MPN" "SIZ342ADT-T1-GE3")
     (property "Sheetfile" "driver.kicad_sch")
     (property "Sheetname" "Driver")
     (property "ki_description" "MOSFET 25V Vds 16V Vgs PowerPAIR 3 x 3")
@@ -2938,7 +2938,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2404515a-7f0e-4f69-8a3b-34acd976b1cb)
     )
-    (fp_text value "SIZ322DT" (at 0 0) (layer "F.SilkS") hide
+    (fp_text value "SIZ342ADT" (at 0 0) (layer "F.SilkS") hide
         (effects (font (size 1.27 1.27) (thickness 0.254)))
       (tstamp e9839914-e30d-40e0-af1c-5b819a5db0fa)
     )
